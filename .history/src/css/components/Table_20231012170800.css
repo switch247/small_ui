@@ -1,0 +1,35 @@
+.tableview__container {
+  /* width: 100%; */
+  margin: 3rem;
+  padding: 1rem;
+  background-color: white;
+}
+.tableview__header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+}
+.tableview__title {
+  flex-grow: 1;
+  font-size: 1.5rem;
+}
+.tableview__curved__btn {
+  align-self: flex-end;
+}
+.left__coint {
+  width: 4px;
+  height: 2rem;
+  background-color: #00579b;
+}
+table {
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 10px;
+}
+table td {
+  border-top: 1px solid #ccc;
+  margin: 1rem;
+}

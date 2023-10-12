@@ -1,0 +1,26 @@
+.footer__footer__container {
+  width: 100%;
+}
+.footer__footer__header {
+  width: auto;
+  display: flex;
+  background-color: var(--Dark_Blue);
+  justify-content: space-between;
+  align-items: center;
+  padding: 3rem;
+}
+ul {
+}
+li {
+  list-style-type: none;
+}
+
+.__list {
+  color: white;
+  text-align: justify;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+}

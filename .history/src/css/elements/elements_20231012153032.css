@@ -1,0 +1,75 @@
+.curved__button {
+  background-color: var(--Verde);
+  outline: none;
+  border: none;
+  border-top-right-radius: 0.7rem;
+  border-bottom-right-radius: 0.7rem;
+  border-top-left-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+  padding: 0.5rem 1rem;
+  transition: all 200ms linear;
+  cursor: pointer;
+  flex: 1;
+}
+
+.curved__button:hover {
+  background-color: var(--Verde);
+}
+
+.borderd__button {
+  outline: none;
+  border: 2px solid var(--Cinza_Cairo);
+  border-top-right-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem;
+  border-top-left-radius: 0.3rem;
+  border-bottom-left-radius: 0.3rem;
+  padding: 0.7rem 1.2rem;
+  transition: all 200ms linear;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0);
+}
+
+.custom_input {
+  border: none;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  font-style: italic;
+  padding: 0.7rem 0.7rem;
+  background-color: var(--Cinza_Cairo);
+  flex: 1;
+  font-size: 1.2rem;
+}
+.custom_input:focus {
+  outline: none;
+}
+
+.custom_input::placeholder {
+  font-style: italic;
+  color: var(--Cinza_Cairo_2);
+  font-weight: 100;
+}
+
+.number__container {
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  border-top-right-radius: 0.7rem;
+  border-bottom-right-radius: 0.7rem;
+  border-top-left-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+  background-color: #080f1a;
+}
+.number {
+  font-size: 2rem;
+  font-weight: 800;
+  color: white;
+}
+.desc {
+  font-size: 0.7rem;
+  font-weight: 300;
+  color: #a5deff;
+}

@@ -1,0 +1,16 @@
+.footer__footer__container {
+}
+.footer__footer__header {
+  /* width: 100%; */
+  position: absolute;
+  display: flex;
+  background-color: var(--Dark_Blue);
+  justify-content: space-between;
+  align-items: center;
+  padding: 3rem;
+}
+ul {
+}
+li {
+  list-style-type: none;
+}

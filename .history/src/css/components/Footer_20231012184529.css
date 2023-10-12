@@ -1,0 +1,37 @@
+.footer__footer__container {
+  width: 100%;
+  background-color: var(--Dark_Blue);
+}
+.footer__footer__header {
+  width: auto;
+  display: flex;
+  background-color: var(--Dark_Blue);
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 3rem;
+}
+ul {
+}
+li {
+  list-style-type: none;
+}
+
+.__list {
+  color: white;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 130%;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.__footer__text {
+  color: white;
+  padding: 0 3rem;
+}
+
+.__footer__end {
+  text-align: center;
+  color: white;
+}

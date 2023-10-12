@@ -1,0 +1,23 @@
+@font-face {
+  font-family: Inter;
+  src: url("./assets/fonts/Inter-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: Inter;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+:root {
+  --Verde: #4ac97d;
+  --Dark_Blue: #1f3655;
+  --Darker_Blue: #011527;
+  --Cinza_Cairo: #e8e7e7;
+  --Azul_Escuro: #01264a;
+  --Orange: #fd806b;
+}

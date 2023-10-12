@@ -1,0 +1,17 @@
+.contacts__container {
+  margin: 3rem;
+}
+.contact__title {
+  font-size: 3.3rem;
+  color: #4ac97d;
+}
+
+.email__conatainer {
+  display: flex;
+}
+
+.contact__text {
+}
+
+.some__border {
+}

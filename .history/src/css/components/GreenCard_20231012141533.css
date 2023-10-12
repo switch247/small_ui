@@ -1,0 +1,41 @@
+.card__container {
+  /* width: 40%; */
+  width: fit-content;
+  background-color: white;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  border-radius: 50px;
+}
+.small__title {
+  display: flex;
+  align-self: start;
+  align-items: center;
+  gap: 1rem;
+  color: var(--Verde);
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+.arrow_image {
+  width: 1.4rem;
+  aspect-ratio: 1/1;
+}
+.small_title_1 {
+}
+
+.main__title {
+  font-size: 54px;
+  font-weight: 700;
+}
+.card__name {
+  display: flex;
+  width: 100%;
+  gap: 0.5rem;
+}
+.card__email {
+}
+.card__country {
+}

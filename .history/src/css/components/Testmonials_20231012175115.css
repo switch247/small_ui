@@ -1,0 +1,15 @@
+.testmonial__title_img {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 1rem;
+  padding: 3rem;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.testmonial__main__container {
+  display: flex;
+  justify-content: center;
+  padding: 3rem;
+  flex: 1.5;
+}

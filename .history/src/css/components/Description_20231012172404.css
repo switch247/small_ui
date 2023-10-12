@@ -1,0 +1,10 @@
+.description__container {
+  background-color: #f7f8f9;
+}
+
+.dropdown__clickable {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 3rem;
+}

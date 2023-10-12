@@ -1,0 +1,16 @@
+.description__container {
+  background-color: #f7f8f9;
+}
+.dropdown__img {
+  width: 3.3rem;
+}
+.dropdown__title {
+  font-size: 3.3rem;
+  color: #4ac97d;
+}
+.dropdown__clickable {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 3rem;
+}

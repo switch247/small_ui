@@ -1,0 +1,10 @@
+.curved__button {
+  background-color: #4ac97d;
+  outline: none;
+  border: none;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  border-bottom-left-radius: 1rem;
+  padding: 0.5rem 1rem;
+}

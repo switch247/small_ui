@@ -1,0 +1,19 @@
+import React from "react";
+import "../css/components/Contact.css";
+import CustomInput from "../elements/CustomInput";
+
+const Contact = () => {
+  return (
+    <div className="contacts__container">
+      <div className="contact__title">Let's keep in touch for news</div>
+      <div className="email__conatainer">
+        <div className="some__border" />
+        <div className="contact__email__input">
+          <CustomInput placeholder="your email here" />
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Contact;

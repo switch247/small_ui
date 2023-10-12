@@ -1,0 +1,14 @@
+.footer__footer__container {
+  padding: 2rem;
+}
+.footer__footer__header {
+  position: absolute;
+  display: flex;
+  background-color: var(--Dark_Blue);
+  justify-content: space-between;
+  align-items: center;
+  border-top-right-radius: 0.7rem;
+  border-bottom-right-radius: 0.7rem;
+  border-top-left-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+}

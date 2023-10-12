@@ -1,0 +1,27 @@
+.card__container {
+  /* width: 40%; */
+  width: fit-content;
+  background-color: white;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  border-radius: 50px;
+}
+.small__title {
+}
+.arrow_image {
+}
+.small_title_1 {
+}
+
+.main__title {
+}
+.card__name {
+}
+.card__email {
+}
+.card__country {
+}

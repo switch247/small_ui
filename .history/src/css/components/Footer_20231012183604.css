@@ -1,0 +1,9 @@
+.footer__footer__container {
+}
+.footer__footer__header {
+  position: absolute;
+  display: flex;
+  background-color: var(--Dark_Blue);
+  justify-content: space-between;
+  align-items: center;
+}

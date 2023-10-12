@@ -1,0 +1,60 @@
+.contacts__container {
+  margin: 3rem;
+}
+.contact__title {
+  font-size: 3.3rem;
+  color: #4ac97d;
+}
+
+.email__conatainer {
+  margin-top: 2rem;
+  display: flex;
+  padding: 3rem;
+  align-items: center;
+  position: relative;
+  border-top-right-radius: 0.7rem;
+  border-bottom-right-radius: 0.7rem;
+  border-top-left-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+  background-color: #f5f5f5;
+}
+
+.contact__text {
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  flex: 1;
+}
+
+.some__border {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 10px;
+  height: 100%;
+  background-color: #00579b;
+  overflow: hidden;
+  border-top-left-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+}
+
+.contact__email__input {
+  flex: 1;
+}
+.contact__email__button {
+  position: absolute;
+  top: 50%;
+  right: 4rem;
+  transform: translateY(-50%);
+}
+
+.contact__footer__header {
+  display: flex;
+  background-color: var(--Dark_Blue);
+  justify-content: space-between;
+  align-items: center;
+  border-top-right-radius: 0.7rem;
+  border-bottom-right-radius: 0.7rem;
+  border-top-left-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+}

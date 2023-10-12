@@ -1,0 +1,26 @@
+.testmonial__title_img {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 1rem;
+  padding: 3rem;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.testmonial__main__container {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem;
+}
+.testmonial_right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.truesP {
+  margin-bottom: 1rem;
+  padding-right: 1rem;
+}
+.girl__image {
+}

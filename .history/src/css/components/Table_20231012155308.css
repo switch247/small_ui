@@ -1,0 +1,10 @@
+table {
+  border-collapse: collapse;
+}
+table th {
+  margin-bottom: 20px;
+}
+table td {
+  border-top: 1px solid #ccc;
+  margin: 1rem;
+}

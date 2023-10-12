@@ -1,0 +1,26 @@
+.App {
+  height: 100%;
+  position: relative;
+}
+
+.app__background {
+  position: absolute;
+  z-index: -9;
+  background: url("../public/images/background.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-clip: border-box;
+  width: 100vw;
+  height: 100vh;
+}
+
+.app__header {
+  display: flex;
+  background-color: var(--Dark_Blue);
+  justify-content: space-between;
+  padding: 0.5rem 2rem;
+  border-top-right-radius: 0.7rem;
+  border-bottom-right-radius: 0.7rem;
+  border-top-left-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+}

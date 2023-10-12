@@ -1,0 +1,28 @@
+.curved__button {
+  background-color: var(--Verde);
+  outline: none;
+  border: none;
+  border-top-right-radius: 0.7rem;
+  border-bottom-right-radius: 0.7rem;
+  border-top-left-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+  padding: 0.5rem 1rem;
+  transition: all 200ms linear;
+  cursor: pointer;
+}
+
+.curved__button:hover {
+  background-color: var(--Verde);
+}
+
+.borderd__button {
+  outline: none;
+  border: 1px solid var(--Cinza_Cairo);
+  border-top-right-radius: 0.7rem;
+  border-bottom-right-radius: 0.7rem;
+  border-top-left-radius: 0.7rem;
+  border-bottom-left-radius: 0.7rem;
+  padding: 0.5rem 1rem;
+  transition: all 200ms linear;
+  cursor: pointer;
+}
